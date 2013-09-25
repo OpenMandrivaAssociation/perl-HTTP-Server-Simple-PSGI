@@ -1,2 +1,4 @@
+removed_sources:
+  HTTP-Server-Simple-PSGI-0.14.tar.gz: 9ecb8a3e07502d8a7351ee8cf199a76655d382c6
 sources:
-  "HTTP-Server-Simple-PSGI-0.14.tar.gz": 9ecb8a3e07502d8a7351ee8cf199a76655d382c6
+  HTTP-Server-Simple-PSGI-0.16.tar.gz: 68a9dbbeaa8b504a812bc0ef10d331c54014e3f2
