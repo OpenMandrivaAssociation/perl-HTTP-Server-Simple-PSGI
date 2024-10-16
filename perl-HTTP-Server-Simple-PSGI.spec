@@ -8,7 +8,7 @@ Release:	3
 Summary:	PSGI handler for HTTP::Server::Simple
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/HTTP/HTTP-Server-Simple-PSGI-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
