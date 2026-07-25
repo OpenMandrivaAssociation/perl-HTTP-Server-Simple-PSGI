@@ -2,14 +2,14 @@
 %define upstream_version 0.16
 
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version %{upstream_version}
-Release:	3
+Version:	%{upstream_version}
+Release:	4
 
 Summary:	PSGI handler for HTTP::Server::Simple
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		https://search.cpan.org/dist/%{upstream_name}
-Source0:	http://www.cpan.org/modules/by-module/HTTP/HTTP-Server-Simple-PSGI-%{upstream_version}.tar.gz
+Url:		https://github.com/miyagawa/HTTP-Server-Simple-PSGI
+Source0:	https://cpan.metacpan.org/authors/id/M/MI/MIYAGAWA/HTTP-Server-Simple-PSGI-%{upstream_version}.tar.gz
 
 BuildRequires:	make
 BuildRequires:	perl-devel
